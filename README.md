@@ -26,6 +26,6 @@ Analysis
 Analysis Introduction Exploratory Data Analysis and Data Preprocessing . Each data visualization is explained with at least 5 sentences. Feature Engineering Candidate Model Development and Final Model Selection
 
 Documents:
-<a href="Tapia_Bruno_A2.html">Download HTML</a>
+<a href="Tapia_Bruno_A2.html">View project in HTML</a>
 
 
