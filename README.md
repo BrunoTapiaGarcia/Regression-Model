@@ -7,7 +7,7 @@ The Client The Cook County Planning and Development Department, responsible for 
 
 Dataset
 
-chicago_training_data.xlsxDownload chicago_training_data.xlsx
+<a href="chicago_training_data.xlsx">Download chicago_training_data.xlsx</a>
 
 Kaggle Link
 
@@ -25,7 +25,7 @@ Analysis
 
 Analysis Introduction Exploratory Data Analysis and Data Preprocessing . Each data visualization is explained with at least 5 sentences. Feature Engineering Candidate Model Development and Final Model Selection
 
-Documents:
-<a href="Tapia_Bruno_A2.html">View project in HTML</a>
+Document:
+<a href="Tapia_Bruno_A1.html">View project in HTML</a>
 
 
