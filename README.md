@@ -33,7 +33,7 @@ Hyperparameter Tuning: Optimize model parameters for better performance.
 Final Model Selection: Choose the best-performing model for final predictions.
 
 
-Document:
+Documents:
 
 <a href="Rentals_prediction_Divvy.ipynb">Download the Jupyter file</a>
 
