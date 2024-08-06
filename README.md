@@ -9,7 +9,7 @@ The bike sharing industry has grown tremendously in recent years, with an estima
 
 <a href="chicago_training_data.xlsx">Download chicago_training_data.xlsx</a>
 
-<a href="test.xlsx">Download chicago_training_data.xlsx</a>
+<a href="test.xlsx">Download chicago_testing_data.xlsx</a>
 
 **Model types used:**
 
