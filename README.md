@@ -1,14 +1,15 @@
 # Predict bike rentals for Divvy
 
-Objective 
+**Objective** 
 
 The bike sharing industry has grown tremendously in recent years, with an estimated global value of $2.8 billion in 2023. This is due to a number of factors, such as convenience, sustainability, and physical fitness. The primary objective of this project is to predict the number of bike rentals for Dyyv, a leading company based in Chicago, over a 30-day period. By accurately forecasting rental volumes, the company can optimize operations, enhance service offerings, and contribute to the broader goal of promoting sustainable urban mobility.
 
 
-Dataset
+**Datasets**
 
 <a href="chicago_training_data.xlsx">Download chicago_training_data.xlsx</a>
 
+<a href="test.xlsx">Download chicago_training_data.xlsx</a>
 
 **Model types used:**
 
