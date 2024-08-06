@@ -34,7 +34,9 @@ Final Model Selection: Choose the best-performing model for final predictions.
 
 
 Document:
-<a href="Rentals_prediction_Divvy.ipynb">Download the Jupyter file</a>
+
+<a href="Rentals_prediction_Divvy.ipynb">Download the Jupyter file</a>,
+
 <a href="Rentals_prediction_Divvy.html">View project in HTML</a>
 
 
