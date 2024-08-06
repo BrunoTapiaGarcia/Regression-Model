@@ -1,32 +1,41 @@
-# Regression Modeling Project.
+# Predict bike rentals for Divvy.
 
 Objective 
 
-The bike sharing industry has grown tremendously in recent years, with an estimated global value of $2.8 billion in 2023. This is due to a number of factors, such as convenience, sustainability, and physical fitness. As a result of the market's growth, your client, a major city in the United States, has tasked you with developing a machine learning model to predict the number of bike rentals on a given day, as well as to provide insights into the factors that contribute to bike rental demand.
+The bike sharing industry has grown tremendously in recent years, with an estimated global value of $2.8 billion in 2023. This is due to a number of factors, such as convenience, sustainability, and physical fitness. The primary objective of this project is to predict the number of bike rentals for Dyyv, a leading company based in Chicago, over a 30-day period. By accurately forecasting rental volumes, the company can optimize operations, enhance service offerings, and contribute to the broader goal of promoting sustainable urban mobility.
 
-The Client The Cook County Planning and Development Department, responsible for the Chicago metropolitan area in the United States.
 
 Dataset
 
 <a href="chicago_training_data.xlsx">Download chicago_training_data.xlsx</a>
 
-Kaggle Link
 
-https://www.kaggle.com/t/0ca16390d1544b3fb4ae6a5fdd25294cLinks to an external site.
+**Model types used:**
 
-Model Types
+**Gradient Boosting Regressor:** This model builds an ensemble of weak learners, typically decision trees, and combines them to improve prediction accuracy. It is particularly effective in capturing complex patterns and interactions within the data.
 
-Model Type Method In Scikit-Learn: OLS Linear Regression linear_model.LinearRegression() Lasso Regression linear_model.Lasso() Ridge Regression linear_model.Ridge() Elastic Net Regression linear_model.SGDRegressor() K-Nearest Neighbors neighbors.KNeighborsRegressor() Decision Tree Regressor tree.DecisionTreeRegressor()
+**K-Nearest Neighbors (KNN):** This model predicts the target value based on the average values of the k-nearest data points. It's useful for capturing local patterns and relationships within the dataset.
 
-Modeling Steps
+**Decision Tree Regressor:** This model splits the data into branches based on feature values, creating a tree-like structure that makes decisions at each node. It's intuitive and capable of modeling non-linear relationships in the data
 
-Package and Dataset Imports Exploratory Data Analysis and Data Preprocessing EDA - descriptive statistics, histograms, correlation, etc. DP - missing value imputation, transformations, etc. Feature Engineering (at least three features have been engineered and their rationales have been explained) Candidate Model Development One model from each permitted modeling type has been developed (see Permitted Model Types). Choose your best model from each model type. Hyperparameter tuning has been performed on your top three models. Final Model Selection It is clear which model was selected as the final model and the rationale for choosing this model is sound.
+**Modeling Steps**
 
-Analysis
+Package and Dataset Imports: Import libraries and load the dataset.
 
-Analysis Introduction Exploratory Data Analysis and Data Preprocessing . Each data visualization is explained with at least 5 sentences. Feature Engineering Candidate Model Development and Final Model Selection
+Exploratory Data Analysis (EDA) and Data Preprocessing (DP):
+
+EDA: Analyze data using statistics, histograms, and correlations.
+DP: Handle missing values, perform feature engineering, and prepare data for modeling.
+Candidate Model Development: Develop and evaluate various models.
+
+Hyperparameter Tuning: Optimize model parameters for better performance.
+
+Final Model Selection: Choose the best-performing model for final predictions.
+
 
 Document:
-<a href="Tapia_Bruno_A1.html">View project in HTML</a>
+<a href="Rentals_prediction_Divvy.ipynb">Download the Jupyter file</a>
+<a href="Rentals_prediction_Divvy.html">View project in HTML</a>
+
 
 
