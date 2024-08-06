@@ -1,4 +1,4 @@
-# Predict bike rentals for Divvy.
+# Predict bike rentals for Divvy
 
 Objective 
 
